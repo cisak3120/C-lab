@@ -1,0 +1,7 @@
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\obj\Debug\CisakApp.RobotBuilder.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\obj\Debug\CisakApp.RobotBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\bin\Debug\CisakApp.RobotBuilder.exe.config
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\bin\Debug\CisakApp.RobotBuilder.exe
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\bin\Debug\CisakApp.RobotBuilder.pdb
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\obj\Debug\CisakApp.RobotBuilder.exe
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakApp.RobotBuilder\obj\Debug\CisakApp.RobotBuilder.pdb
