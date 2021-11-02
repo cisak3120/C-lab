@@ -16,6 +16,7 @@ namespace CisakApp.RobotBuilder
             robot.Uruchom();
             robot.DajSygnal();
             Console.ReadLine();
+
         }
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B994322-241E-49BC-A554-33AAB8FD586D}</ProjectGuid>
+    <ProjectGuid>{640082C7-5393-4A7F-B7D1-AD94DAAE7F76}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CisakJakubSol</RootNamespace>
-    <AssemblyName>CisakJakubSol</AssemblyName>
+    <RootNamespace>CisakApp.NagrywarkaBuilder</RootNamespace>
+    <AssemblyName>CisakApp.NagrywarkaBuilder</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

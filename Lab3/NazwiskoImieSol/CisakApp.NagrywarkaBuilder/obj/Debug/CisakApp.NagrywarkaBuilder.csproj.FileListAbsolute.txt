@@ -1,0 +1,7 @@
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\bin\Debug\CisakApp.NagrywarkaBuilder.exe.config
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\bin\Debug\CisakApp.NagrywarkaBuilder.exe
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\bin\Debug\CisakApp.NagrywarkaBuilder.pdb
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\obj\Debug\CisakApp.NagrywarkaBuilder.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\obj\Debug\CisakApp.NagrywarkaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\obj\Debug\CisakApp.NagrywarkaBuilder.exe
+C:\Users\Jakub\Desktop\C#\Lab3\NazwiskoImieSol\CisakApp.NagrywarkaBuilder\obj\Debug\CisakApp.NagrywarkaBuilder.pdb

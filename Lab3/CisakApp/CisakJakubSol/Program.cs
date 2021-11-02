@@ -10,6 +10,8 @@ namespace CisakJakubSol
     {
         static void Main(string[] args)
         {
+            Nagrywarka nagrywarka = new Nagrywarka();
+            nagrywarka.Wlacz();
         }
     }
 }

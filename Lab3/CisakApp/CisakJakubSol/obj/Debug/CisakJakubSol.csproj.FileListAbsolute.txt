@@ -1,0 +1,7 @@
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\bin\Debug\CisakJakubSol.exe.config
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\bin\Debug\CisakJakubSol.exe
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\bin\Debug\CisakJakubSol.pdb
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\obj\Debug\CisakJakubSol.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\obj\Debug\CisakJakubSol.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\obj\Debug\CisakJakubSol.exe
+C:\Users\Jakub\Desktop\C#\Lab3\CisakApp\CisakJakubSol\obj\Debug\CisakJakubSol.pdb
