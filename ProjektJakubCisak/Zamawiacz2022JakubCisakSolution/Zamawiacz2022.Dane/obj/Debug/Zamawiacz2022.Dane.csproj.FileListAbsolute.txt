@@ -1,0 +1,6 @@
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\obj\Debug\Zamawiacz2022.Dane.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\obj\Debug\Zamawiacz2022.Dane.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\bin\Debug\Zamawiacz2022.Dane.dll
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\bin\Debug\Zamawiacz2022.Dane.pdb
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\obj\Debug\Zamawiacz2022.Dane.dll
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Dane\obj\Debug\Zamawiacz2022.Dane.pdb

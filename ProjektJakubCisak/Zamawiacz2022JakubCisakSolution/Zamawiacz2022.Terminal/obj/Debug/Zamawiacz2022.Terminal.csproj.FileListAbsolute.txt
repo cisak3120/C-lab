@@ -1,0 +1,10 @@
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\obj\Debug\Zamawiacz2022.Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\bin\Debug\Zamawiacz2022.Terminal.exe.config
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\bin\Debug\Zamawiacz2022.Terminal.exe
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\bin\Debug\Zamawiacz2022.Terminal.pdb
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\bin\Debug\Zamawiacz2022.Dane.dll
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\bin\Debug\Zamawiacz2022.Dane.pdb
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\obj\Debug\Zamawiacz2022.Terminal.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\obj\Debug\Zamawiacz2022.Terminal.exe
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\obj\Debug\Zamawiacz2022.Terminal.pdb
+C:\Users\Jakub\Desktop\C#\ProjektJakubCisak\Zamawiacz2022JakubCisakSolution\Zamawiacz2022.Terminal\obj\Debug\Zamawiacz2022.Terminal.csproj.CopyComplete
