@@ -16,8 +16,13 @@ namespace Zamawiacz2022.Terminal
             Console.WriteLine("");
 
             Repozytorium repozytorium = new Repozytorium();
-            //repozytorium.PobierzDaneKanapek();
+            /*repozytorium.PobierzDaneKanapek();
             repozytorium.PobierzDaneNapoji();
+            repozytorium.PobierzDaneDeserow();
+            repozytorium.PobierzDaneDodatkow();*/
+            repozytorium.WyświetlDane();
+            
+            repozytorium.ZlozZamowienie();
             Console.ReadKey();
         }
     }

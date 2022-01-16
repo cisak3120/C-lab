@@ -8,10 +8,10 @@ namespace Zamawiacz2022.Dane
 {
     public class Drink : Produkt
     {
-        public override int Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override string Name { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override double Weight { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override double Price { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public override int Id { get; set ; }
+        public override string Name { get; set ; }
+        public override double Weight { get; set; }
+        public override double Price { get; set; }
         public int Sugar { get; set; }
     }
 

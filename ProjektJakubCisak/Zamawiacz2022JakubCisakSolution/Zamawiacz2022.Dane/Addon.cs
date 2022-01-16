@@ -8,10 +8,10 @@ namespace Zamawiacz2022.Dane
 {
     public class Addon : Produkt
     {
-        public override int Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override string Name { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override double Weight { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override double Price { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public bool Sauce { get; set; }
+        public override int Id { get; set; }
+        public override string Name { get; set; }
+        public override double Weight { get; set; }
+        public override double Price { get; set; }
+        public int Sauce { get; set; }
     }
 }
